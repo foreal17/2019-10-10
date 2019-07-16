@@ -321,7 +321,7 @@ please preview your site before committing, and make sure to run
 
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="shell-windows">
-        <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
+        <a href="https://github.com/foreal17/2019-08-01-auckland/blob/gh-pages/WSL_Ubuntu_18.04_LTS.pdf">Terminal installation </a>
         <ol>
           <li>Download the Git for Windows <a href="https://git-for-windows.github.io/">installer</a>.</li>
           <li>Run the installer and follow the steps below:
