@@ -323,6 +323,26 @@ please preview your site before committing, and make sure to run
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="shell-windows">
         <a href="https://github.com/foreal17/2019-08-01-auckland/blob/gh-pages/WSL_Ubuntu_18.04_LTS.pdf">Terminal installation</a>
+      <article role="tabpanel" class="tab-pane active" id="shell-macos">
+        <p>
+          The default shell in all versions of macOS is Bash, so no
+          need to install anything.  You access Bash from the Terminal
+          (found in
+          <code>/Applications/Utilities</code>).
+          See the Git installation <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
+          for an example on how to open the Terminal.
+          You may want to keep
+          Terminal in your dock for this workshop.
+        </p>
+      </article>
+      <article role="tabpanel" class="tab-pane active" id="shell-linux">
+        <p>
+          The default shell is usually Bash, but if your
+          machine is set up differently you can run it by opening a
+          terminal and typing <code>bash</code>.  There is no need to
+          install anything.
+        </p>
+      </article>
     </div>
   </div>
 
