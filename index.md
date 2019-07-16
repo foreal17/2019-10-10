@@ -322,7 +322,7 @@ please preview your site before committing, and make sure to run
 
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="shell-windows">
-        <a href="https://github.com/foreal17/2019-08-01-auckland/blob/gh-pages/WSL_Ubuntu_18.04_LTS.pdf">Terminal installation </a>
+        <a href="https://github.com/foreal17/2019-08-01-auckland/blob/gh-pages/WSL_Ubuntu_18.04_LTS.pdf">Terminal installation</a>
     </div>
   </div>
 
