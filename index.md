@@ -311,6 +311,7 @@ please preview your site before committing, and make sure to run
     Bash is a commonly-used shell that gives you the power to do simple
     tasks more quickly.
   </p>
+  </div>
 
   <div>
     <ul class="nav nav-tabs nav-justified" role="tablist">
@@ -324,7 +325,6 @@ please preview your site before committing, and make sure to run
         <a href="https://github.com/foreal17/2019-08-01-auckland/blob/gh-pages/WSL_Ubuntu_18.04_LTS.pdf">Terminal installation </a>
     </div>
   </div>
-</div> {% comment %} End of 'shell' section. {% endcomment %}
 
 
 <div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
