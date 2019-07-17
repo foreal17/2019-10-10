@@ -373,7 +373,6 @@ please preview your site before committing, and make sure to run
       <article role="tabpanel" class="tab-pane active" id="editor-windows">
         <p>
           nano is a basic editor and the default that instructors use in the workshop.
-          It is installed along with Git.
         </p>
         <p>
           Others editors that you can use are
@@ -387,8 +386,6 @@ please preview your site before committing, and make sure to run
       <article role="tabpanel" class="tab-pane active" id="editor-macos">
         <p>
           nano is a basic editor and the default that instructors use in the workshop.
-          See the Git installation <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
-          for an example on how to open nano.
           It should be pre-installed.
         </p>
         <p>
