@@ -230,7 +230,7 @@ Collaborative Notes
 
 If you want to use an Etherpad, go to
 
-http://pad.carpentries.org/2019-08-01-auckland
+http://pad.carpentries.org/2019-10-10-christchurch
 
 where 'YYYY-MM-DD-site' is the identifier for your workshop,
 e.g., '2015-06-10-esu'.
